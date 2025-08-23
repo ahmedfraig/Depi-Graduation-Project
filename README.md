@@ -175,7 +175,7 @@
 <p>For any questions or access to the credentials, you can reach out to me via:</p>
 <ul>
     <li><strong>GitHub</strong>: <a href="https://github.com/AbdelrahmanAboegela">AbdelrahmanAboegela</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/abdelrahman-alshames-635aa3277/">Abdelrahman Alshames</a></li>
+    <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/leby/">Abdelrahman Alshames</a></li>
 </ul>
 
 <h3>Contributions</h3>
